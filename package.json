@@ -1,0 +1,14 @@
+{
+  "name": "tip.cc",
+  "version": "0.0.1",
+  "description": "A module that allows you to seamlessly integrate tip.cc into your application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tip.cc"
+  ],
+  "author": "pasketti",
+  "license": "ISC"
+}
